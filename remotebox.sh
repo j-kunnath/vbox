@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #Install dependencies
 apt-get install libgtk3-perl libsoap-lite-perl freerdp2-x11 tigervnc-viewer
